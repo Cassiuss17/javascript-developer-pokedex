@@ -1,0 +1,8 @@
+Requisição HTTP
+
+URL: https://https://pokeapi.co/api/v2/pokemon
+     ${IP}/${path = caminho de identificação do recurso}
+     
+Request method:  GET | POST | PUT | DELETE           
+              
+              Buscar | Inserir | Atualizar | Deletar
